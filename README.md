@@ -125,7 +125,18 @@
           Console.WriteLine("{0}\t{1}\t{2}", i, i*i, i*i*i); 
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
 ```
-1 
-2 มีข้อความขึ้นว่า 3 1 2
-3 ข้อความว่า Hello World
-4 ข้อความว่า Here comes a slash \
+1 <IMG src="https://github.com/Atcharee248/LAB-05/blob/master/img/51.JPG?raw=true"><br>
+2 มีข้อความขึ้นว่า 3 1 2 <br>
+3 ข้อความว่า Hello World<br>
+4 ข้อความว่า Here comes a slash \<br>
+5 <IMG src="https://github.com/Atcharee248/LAB-05/blob/master/img/51.JPG?raw=true"><br>
+6 <IMG src="https://github.com/Atcharee248/LAB-05/blob/master/img/56.JPG?raw=true"><br>
+7 ข้อความ The value: 500<br>
+8  ข้อความ The value: ?500<br>
+9 ข้อความ 12.3457<br>
+10 ข้อความ ?12.35<br>
+11 ข้อความ 1.235E+001<br>
+12 ข้อความ ffff<br>
+13 ข้อความ FFFF<br>
+14 <IMG src="https://github.com/Atcharee248/LAB-05/blob/master/img/514.JPG?raw=true"><br>
+15 1234.568.
