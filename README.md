@@ -128,8 +128,8 @@
 1 <IMG src="https://github.com/Atcharee248/LAB-05/blob/master/img/51.JPG?raw=true"><br>
 2 มีข้อความขึ้นว่า 3 1 2 <br>
 3 ข้อความว่า Hello World<br>
-4 ข้อความว่า Here comes a slash \<br>
-5 <IMG src="https://github.com/Atcharee248/LAB-05/blob/master/img/51.JPG?raw=true"><br>
+4 ข้อความว่า Here comes a slash \
+<br>5 <IMG src="https://github.com/Atcharee248/LAB-05/blob/master/img/51.JPG?raw=true"><br>
 6 <IMG src="https://github.com/Atcharee248/LAB-05/blob/master/img/56.JPG?raw=true"><br>
 7 ข้อความ The value: 500<br>
 8  ข้อความ The value: ?500<br>
