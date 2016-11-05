@@ -15,7 +15,7 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic1.png)
 
   2.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
+ <br> ขึ้นข้อความ This is text 1. 2 และ 3 คนละบรรทัด
 <hr>
 <hr>
 <hr>
@@ -25,19 +25,19 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic2.png)
 
  2.4). รันโปรแกรม และบันทึกผลที่ได้
-
+ <br>ขึ้นข้อความ 3 and 6
 
 
 
 
 ###คำถาม 5.1 เครื่องหมาย { }  ในคำสั่ง Console.WriteLine() มีลักษณะการใช้งานอย่างไร
-<hr>
+<br>เป็นการเรียกใช้ตัวอักษรที่อยู่หลัง , โดยตัวและจะเป็นตำแหน่ง 0 และถัดไปคือ 1
 <hr>
 <hr>
 <hr>
 <hr>
 ###คำถาม 5.2  ถ้ามีการใช้ตัวเลขใน { } ที่กระโดด เช่น {0} {2} {3} จะใช้งานได้หรือไม่ อย่างไร จงอธิบาย
-<hr>
+<hr><br> ใช้งานได้ถ้ามีตัวอักษรอยุ่ในตัวแหน่งที่ 0 2 และ 3
 <hr>
 <hr>
 <hr>
@@ -48,7 +48,7 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic3.png)
 
  2.6). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
+<br>ขึ้นข้อความ 6,3 and 6 
 <hr>
 <hr>
 <hr>
@@ -61,14 +61,14 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic4.png)
 
   3.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
+<hr><br><img src="https://github.com/Atcharee248/LAB-05/blob/master/img/lab5_1.JPG?raw=true">
 <hr>
 <hr>
 <hr>
 <hr>
 
 ###คำถาม 5.3 การกำหนดความกว้างของอาร์กิวเมนต์ด้วยเครื่องหมาย { , }  ในคำสั่ง Console.WriteLine() มีรูปแบบการใช้งานอย่างไร
-<hr>
+<hr><br> ตัวเลขตำแหน่ง หลัง เช่น {0,5} จะเป็นการแสดงตัวอักษรที่ตำแหน่งที่ 5
 <hr>
 <hr>
 <hr>
@@ -81,7 +81,7 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic5.png)
 
   4.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
+<hr><br><img src="https://github.com/Atcharee248/LAB-05/blob/master/img/lab5_2.JPG?raw=true">
 <hr>
 <hr>
 <hr>
@@ -93,13 +93,14 @@
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic6.png)
 
   5.2). รันโปรแกรม และบันทึกผลที่ได้
-
+<BR> <IMG src="https://github.com/Atcharee248/LAB-05/blob/master/img/lab5_3.JPG?raw=true">
 6). ทดลองเรื่องการกำหนดรูปแบบพร้อมความกว้างของทศนิยมของอาร์กิวเมนต์
   6.1). แก้โปรแกรมตามรูปด้านล่างนี้
 
  ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic7.png)
 
   6.2). รันโปรแกรม และบันทึกผลที่ได้
+  <br> <img src="https://github.com/Atcharee248/LAB-05/blob/master/img/lab5_4.JPG?raw=true">
 
 ## แบบฝึกหัด จงระบุ output ของบรรทัดคำสั่งต่อไปนี้
 
@@ -124,3 +125,7 @@
           Console.WriteLine("{0}\t{1}\t{2}", i, i*i, i*i*i); 
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
 ```
+1 
+2 มีข้อความขึ้นว่า 3 1 2
+3 ข้อความว่า Hello World
+4 ข้อความว่า Here comes a slash \
